@@ -1,1 +1,594 @@
-*{ }
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+
+}
+
+    .flexbox {
+        
+        font-size: 140%;
+        background-color: #FF609A;
+        width:100%;
+        height: 91px;
+       font-family: Arial, Helvetica, sans-serif;
+        display: flex;
+       
+        justify-content: flex-end;
+        padding-right: 250px;
+        align-items: center;
+  
+             
+}
+.marginleft15px {
+   
+  display: inline;
+ margin-left: 35px;
+ text-decoration: none;
+
+
+}
+.Misdatos1{background-color: white;
+width: 100%;
+height: 738px;
+
+}
+
+.MisDatos {  padding-top: 15%;
+    padding-left:15% ;
+
+}
+
+.Hola {
+    color: #2E2E31;
+    font-family: 'Montserrat',sans-serif;
+    font-size:30px;
+
+
+       
+  
+
+
+}
+
+.Guada {
+    color: #FF609A;
+    font-family:'Montserrat',sans-serif;
+
+font-size: 50px;
+
+   
+}
+
+.desarrolladora {
+        
+    color: #616161;
+    font-size: 18px;
+   
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+padding-bottom: 50px;
+
+}
+
+.boton  { color: #2e0e0e;
+    text-decoration: none; }
+  
+
+.boton2  {   
+    text-decoration:none;
+   
+    font-size:20px;
+    color:#ffffff;
+    padding-top:13px;
+    padding-bottom:13px;
+   padding-left: 35px;
+   padding-right: 35px;
+   background-color:#FF609A;
+    border-radius: 50px;
+    font-family: 'Montserrat',sans-serif;
+
+
+}
+
+.boton3 {
+
+text-decoration: none;
+color:black;
+background-color:#ffffff ;
+padding-top:7px;
+padding-bottom:7px;
+padding-left:30px;
+padding-right:30px;
+
+border-radius: 50px;
+
+
+}
+
+.foto { display: flex;
+align-items: flex-start;
+justify-content: flex-end;
+position: relative;
+left: 50%;
+bottom: 380px;
+
+ 
+    }
+
+
+
+   
+
+       
+    
+    .Misconocimientos {
+    padding-top: 10%;
+    padding-bottom: 30px;
+    font-size: 270%;
+    margin-left: 35%;
+    font-family: 'Montserrat', sans-serif; 
+    
+    }
+    
+    .Misconocimientos2 { margin-left: 37%;
+        font-size: 110% ;
+        font-family: Arial, Helvetica, sans-serif;
+
+    
+    
+    }
+ .tarjetas{ background-color:#F6F7FB;
+width: 100%;
+height: 984px;}
+
+
+.tarjetas2{  justify-content: row;
+    display: flex;
+    margin-left: 350px;
+    margin-top: 80px;
+}
+
+
+.caja1 {
+    height: 229px;
+    width: 260px;
+    background-color: hsl(0, 0%, 100%);
+  margin-right: 25px;
+  border-radius: 10px;
+
+
+
+}
+.fa-react{color: #61DAFB;}
+.fa-js{color: #F0DB4F;}
+.fa-sass
+{color:#CC6699}
+
+.fa-css3-alt{color: #5EA2CF;}
+
+.fa-html5{
+    color: #E54D26;
+}
+.fab{font-size: 90px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 50px;
+ }
+
+ .fa-git-alt{color: #F34F29;}
+   
+
+   .html5{  display: flex;
+ justify-content: center;
+ align-items: center;
+ padding-top: 10px;
+ font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+.css3 { display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+
+
+
+}
+.sass {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+.JavaScript {display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+
+}
+.React{display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;}
+
+
+    .Git {display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 10px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif ;}
+
+    .caja2 {
+        height: 229px;
+        width: 260px;
+        background-color: #ffffff;
+        margin-right: 25px;
+      border-radius: 10px;
+    
+        }
+
+    .caja3 {
+        height: 229px;
+        width: 260px;
+        background-color: #ffffff;
+       
+      border-radius: 10px;
+    
+    }
+
+    .caja4 {
+        height: 229px;
+        width: 260px;
+        background-color: white;
+        margin-right: 25px;
+      border-radius: 10px;
+    
+    }
+    .caja5 {
+        height: 229px;
+        width: 260px;
+        background-color: white;
+        margin-right: 25px;
+      border-radius: 10px;
+ 
+    }
+    .caja6 {
+        height: 229px;
+        width: 260px;
+        background-color: white;
+        margin-right: 25px;
+      border-radius: 10px;
+     
+     
+    }
+    
+.comillas { background-color: #FF609A;
+    width: 100%;
+    height:571px;
+   
+
+}
+.comillas2{ color: white;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center; 
+    font-size: 200px;
+padding-top: 50px;
+font-family:sans-serif;
+}
+
+
+    .lorem { color:white ;
+    font-size: 20px;
+   font-family:Arial, Helvetica, sans-serif;
+
+display: flex;
+align-items: flex-start;
+justify-content: center;
+ 
+    }
+  .someone{color: white;
+font-size: 27px;
+font-weight: 200;
+display: flex;
+align-items: center;
+justify-content: center;
+font-family:'Montserrat', sans-serif; 
+padding-top: 50px;
+
+}
+    .misproyectos {
+background-color: #FFFFFF;
+width: 100%;
+height: 1600px;
+
+    }
+    .titulo {
+font-family:'Montserrat', sans-serif;
+font-size: 290%;
+display: flex;
+justify-content: center;
+align-items: center;
+padding-top: 10%;
+padding-bottom: 30px;
+}
+.lorem2 { 
+    margin-left: 35%;
+    font-size: 100% ;
+    font-family:'Nunito', sans-serif;
+    font-weight:300;
+ 
+
+}
+.Projectos{
+  display: flex;
+  justify-content: row;
+
+  margin-left: 280px;
+  margin-top: 80px;
+}
+.Projectos2{ display: flex;
+    justify-content: row;
+  
+    margin-left: 280px;
+    margin-top: 80px;
+}
+.Projectos3{ display: flex;
+    justify-content: row;
+  
+    margin-left: 280px;
+    margin-top: 80px;
+}
+
+
+.Portafoliopro{display: flex;
+align-items: center;
+justify-content: center;
+padding-top: 30px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 600;
+color: rgb(54, 54, 54);
+}
+
+
+.pro1{ width: 344px;
+height: 348px;
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+margin-right: 25px;
+padding-top: 30px;
+border-style:solid;
+border-width: 1px;
+border-color: rgb(219, 212, 212);
+}
+
+.memes{display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    color: rgb(54, 54, 54);
+
+
+}
+
+.pro2{ width: 344px;
+    height: 348px;
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 25px;
+    
+border-style:solid;
+border-width: 1px;
+border-color: rgb(219, 212, 212);
+    }
+
+    .Match {display: flex;
+        align-items: center;
+        justify-content: center;
+      padding-top: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 600;
+        color: rgb(54, 54, 54);
+
+
+    }
+
+ .pro3{ width: 344px;
+    height: 348px;
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 25px;
+    border-style:solid;
+border-width: 1px;
+border-color: rgb(219, 212, 212);
+    padding-top: 30px;
+    }  
+    .gastos{display: flex;
+        align-items: center;
+        justify-content: center;
+      padding-top: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 600;
+        color: rgb(54, 54, 54);
+
+
+
+    }
+.pro4{ width: 344px;
+        height: 348px;
+        background-color: white;
+        border-radius: 10px;
+        margin-right: 25px;
+        border-style:solid;
+        border-width: 1px;
+        border-color: rgb(219, 212, 212);
+            padding-top: 30px;
+      
+        }
+
+        .admin{display: flex;
+            align-items: center;
+            justify-content: center;
+          padding-top: 20px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-weight: 600;
+            color: rgb(54, 54, 54);}
+
+.pro5{ width: 344px;
+   height: 348px;
+    background-color: white;
+      border-radius: 10px;
+      margin-right: 25px;
+      border-style:solid;
+      border-width: 1px;
+      border-color: rgb(219, 212, 212);
+          padding-top: 30px;
+            }
+
+.app{display: flex;
+    align-items: center;
+    justify-content: center;
+  padding-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    color: rgb(54, 54, 54);}
+
+.pro6{ width: 344px;
+    height: 348px;
+   background-color: white;
+ border-radius: 10px;
+ margin-right: 25px;
+ border-style:solid;
+ border-width: 1px;
+ border-color: rgb(219, 212, 212);
+     padding-top: 30px;
+ 
+}
+.cine{display: flex;
+    align-items: center;
+    justify-content: center;
+  padding-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    color: rgb(54, 54, 54);
+
+
+}
+.pro7{ width: 344px;
+    height: 348px;
+   border-radius: 10px;
+   background-color: white;
+   margin-right: 25px;
+   border-style:solid;
+   border-width: 1px;
+   border-color: rgb(219, 212, 212);
+       padding-top: 30px;
+ 
+}
+
+
+
+
+.zonaformulario{  background-color: #F6F7FB ;
+    width: 100%;
+    height:1018px;
+padding-left: 15%;
+padding-top: 14%;
+   }
+
+   .cajaformulario {
+       background-color: rgb(232, 222, 238);
+       width: 1100px;
+       height: 689px;
+       border-radius: 15px;
+    
+  
+     
+    
+
+    
+   
+      }
+      .contactame{   padding-top: 90px;
+       
+    font-size: 32px;
+    font-weight: 500px;
+    font-family: 'Montserrat', sans-serif; 
+    display: flex;
+    align-items: flex-start;
+   
+    justify-content: space-evenly;
+   
+    }
+
+   .escribime{
+    font-size: 32px;
+    font-weight: 500px;
+    font-family: 'Montserrat', sans-serif; 
+
+
+
+   }
+    
+     
+  
+    .loremcontact{
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        font-size: 15px;
+        font-weight: 100;
+        padding-top: 30px;
+       padding-right: 200px;
+       font-family:'Nunito', sans-serif ;
+    }
+form{ 
+	width:470px;
+    height: 600px;
+	display: block;
+    align-items: flex-end;
+	background-color:#ccc;
+
+
+}
+form label{
+	width:72px;
+	font-weight:bold;
+	display:inline-block;
+}
+
+form input[type="text"],
+form input[type="email"]{
+	width:250px;
+	padding:3px 10px;
+	border:1px solid #f6f6f6;
+	border-radius:10px;
+	background-color:#ffffff;
+	margin:8px 0;
+	display:inline-block;
+}
+
+
+textarea{
+	width:100%;
+	height:100px;
+	border:1px solid #f6f6f6;
+	border-radius:3px;
+	background-color:#f6f6f6;			
+	margin:8px 0;
+
+	resize:none;
+	display:block;
+}
+.pies {
+
+    height: 75px;
+    width: 100%;
+    background-color:#FF609A ;
+}
